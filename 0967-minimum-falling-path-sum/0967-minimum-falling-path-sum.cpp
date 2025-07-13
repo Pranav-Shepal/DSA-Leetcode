@@ -1,18 +1,6 @@
 class Solution {
 public:
 
-    int f(vector<vector<int>>& matrix,int r,int c,vector<vector<int>>&dp){
-        if(c<0 || c>=matrix[0].size())return INT_MAX;
-        if(r==0)return matrix[0][c];
-
-        if(dp[r][c]!=-1)return dp[r][c];
-        int val1=f(matrix,r-1,c-1,dp);
-        int val2=f(matrix,r-1,c,dp);
-        int val3=f(matrix,r-1,c+1,dp);
-
-        return dp[r][c]= matrix[r][c]+min(val1,min(val2,val3));
-    }
-
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
 
