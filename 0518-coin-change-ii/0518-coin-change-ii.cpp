@@ -11,7 +11,7 @@ public:
         if(dp[n][amt]!=-1) return dp[n][amt];
         int notTake=f(coins,n-1,amt,dp);
         int take=0;
-        if(coins[n]<=amt) take=f(coins,n,amt-coins[n],dp);
+        if(coins[n]<=amt) take=f(coins,n,amt-coins[n],dp); // as infinite number of each kind of coin.
 
         return dp[n][amt]=take+notTake;
     }
