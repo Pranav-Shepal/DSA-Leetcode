@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0120-triangle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Math
