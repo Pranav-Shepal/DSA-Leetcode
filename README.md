@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
