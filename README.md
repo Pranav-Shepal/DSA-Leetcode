@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3396-valid-word) |
 ## Breadth-First Search
 |  |
