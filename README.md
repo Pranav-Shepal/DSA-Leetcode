@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0322-coin-change) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
