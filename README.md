@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
