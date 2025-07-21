@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
