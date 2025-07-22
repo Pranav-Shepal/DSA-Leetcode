@@ -9,13 +9,14 @@ public:
         while(lo<=hi){
             int mid=(lo+hi)/2;
             if(nums[mid]==target) return mid;
-            if(nums[lo]<=nums[mid]){
+            // identify which part of arr is sorted (lo->mid)
+            if(nums[lo]<=nums[mid]){ // left part is sorted
                 if(target>=nums[lo] && target<=nums[mid]){
                     hi=mid-1;
                 }
                 else lo=mid+1;
             }
-            else{
+            else{ // right part is sorted (mid->hi)
                 if(target>=nums[mid] && target<=nums[hi]){
                     lo=mid+1;
                 }
