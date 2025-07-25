@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
