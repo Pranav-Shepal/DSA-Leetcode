@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2886-faulty-keyboard](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3396-valid-word) |
 ## Breadth-First Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2886-faulty-keyboard](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 ## Union Find
 |  |
 | ------- |
