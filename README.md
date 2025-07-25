@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0518-coin-change-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -148,9 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
