@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
