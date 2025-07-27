@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
