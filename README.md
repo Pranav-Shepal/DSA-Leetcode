@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2365-percentage-of-letter-in-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
