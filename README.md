@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2886-faulty-keyboard](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3396-valid-word) |
 ## Breadth-First Search
