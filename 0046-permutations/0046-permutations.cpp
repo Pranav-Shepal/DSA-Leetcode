@@ -1,20 +1,14 @@
 class Solution {
 public:
 
-    void f(vector<vector<int>>& ans,vector<int>& v,vector<bool>& mp,vector<int>nums){
-        if(v.size()==nums.size()){
-            ans.push_back(v);
+    void f(vector<vector<int>>& ans,vector<int>v,int start,vector<int>nums){
+        if(start==nums.size()-1){
+            ans.push_back(nums);
             return;
         }
-
-        for(int i=0;i<nums.size();i++){
-            if(!mp[i]){
-                v.push_back(nums[i]);
-                mp[i]=true;
-                f(ans,v,mp,nums);
-                v.pop_back();
-                mp[i]=false;
-            }
+        for(int i=start;i<nums.size();i++){
+            swap(nums[start],nums[i]);
+            f(ans,v,start+1,nums);
         }
     }
 
@@ -24,7 +18,7 @@ public:
         vector<vector<int>>ans;
         vector<int>v;
 
-        f(ans,v,mp,nums);
+        f(ans,v,0,nums);
 
         return ans;
     }
