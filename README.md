@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2886-faulty-keyboard](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3396-valid-word) |
