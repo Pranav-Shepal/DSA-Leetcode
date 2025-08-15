@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -289,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
