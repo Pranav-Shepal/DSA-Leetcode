@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
