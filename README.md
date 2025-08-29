@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
 |  |
 | ------- |
