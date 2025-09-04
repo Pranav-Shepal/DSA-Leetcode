@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
