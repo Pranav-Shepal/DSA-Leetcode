@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1559-cherry-pickup-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
