@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
