@@ -1,42 +1,39 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m=matrix.size();
-        int n=matrix[0].size();
-
-        int sr=0,er=m-1;
-        int sc=0,ec=n-1;
-
+        int n=matrix.size();
+        int m=matrix[0].size();
         vector<int>ans;
 
-        while(sr<=er && sc<=ec){
-            // left
-            if(sr>er || sc>ec) break;
-            for(int i=sc;i<=ec;i++){
-                ans.push_back(matrix[sr][i]);
-            }
-            sr++;
+        int rs = 0, cs = 0, re = n - 1, ce = m - 1;
 
-            if(sr>er || sc>ec) break;
-            //down
-            for(int i=sr;i<=er;i++){
-                ans.push_back(matrix[i][ec]);
+        while(rs<=re && cs<=ce){
+            // right
+            for(int i=cs;i<=ce;i++){
+                ans.push_back(matrix[rs][i]);
             }
-            ec--;
+            rs++;
+
+            if(rs>re || cs>ce) break;
+            // down
+            for(int i=rs;i<=re;i++){
+                ans.push_back(matrix[i][ce]);
+            }
+            ce--;
             
-            if(sr>er || sc>ec) break;
-            //left
-            for(int i=ec;i>=sc;i--){
-                ans.push_back(matrix[er][i]);
+            if(rs>re || cs>ce) break;
+            // left
+            for(int i=ce;i>=cs;i--){
+                ans.push_back(matrix[re][i]);
             }
-            er--;
+            re--;
 
-            if(sr>er || sc>ec) break;
-            //up 
-            for(int i=er;i>=sr;i--){
-                ans.push_back(matrix[i][sc]);
+            if(rs>re || cs>ce) break;
+            // up
+            for(int i=re;i>=rs;i--){
+                ans.push_back(matrix[i][cs]);
             }
-            sc++;
+            cs++;
         }
 
         return ans;
