@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
