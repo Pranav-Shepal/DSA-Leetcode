@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0953-reverse-only-letters) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
