@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0953-reverse-only-letters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0917-boats-to-save-people) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
