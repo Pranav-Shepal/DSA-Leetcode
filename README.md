@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1448-maximum-69-number) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
