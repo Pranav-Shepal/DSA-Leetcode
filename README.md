@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
