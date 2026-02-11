@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0917-boats-to-save-people) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
