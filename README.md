@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3637-trionic-array-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
