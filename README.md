@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0120-triangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0242-valid-anagram) |
