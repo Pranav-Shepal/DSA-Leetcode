@@ -1,30 +1,28 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int n = matrix.size();        // number of rows
-        int m = matrix[0].size();     // number of cols
+        int m=matrix.size();
+        int n=matrix[0].size();
 
-        unordered_set<int> rows;
-        unordered_set<int> cols;
+        vector<int>rows;
+        vector<int>cols;
 
-        // 1) Record rows and columns that must become zero
-        for (int i = 0; i < n; i++) {      // loop rows
-            for (int j = 0; j < m; j++) {  // loop cols
-                if (matrix[i][j] == 0) {
-                    rows.insert(i);
-                    cols.insert(j);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(matrix[i][j]==0){
+                    rows.push_back(i);
+                    cols.push_back(j);
                 }
             }
         }
-
-        // 2) Zero recorded rows
-        for (int r : rows) {
-            for (int j = 0; j < m; j++) matrix[r][j] = 0;
+        for(int i=0;i<rows.size();i++){
+            vector<int> v=matrix[rows[i]];
+            for(int j=0;j<matrix[0].size();j++) v[j]=0;
+            matrix[rows[i]]=v;
         }
-
-        // 3) Zero recorded columns
-        for (int c : cols) {
-            for (int i = 0; i < n; i++) matrix[i][c] = 0;
+        for(int j=0;j<cols.size();j++){
+            int col=cols[j];
+            for(int i=0;i<matrix.size();i++) matrix[i][col]=0;
         }
     }
 };
