@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1448-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0832-flipping-an-image) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 ## Union Find
