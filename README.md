@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -444,17 +445,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Enumeration
 |  |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pranav-Shepal/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
